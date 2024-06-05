@@ -3,7 +3,7 @@
 	"description" : "Now you can open infamy menu in session, Also no need to break lobby anymore.",
 	"author" : "Shane",
 	"Contact" : "https://steamcommunity.com/id/Shane1230/",
-	"version" : "1.1",
+	"version" : "1.2",
 	"priority": 1,
 	"hooks": [
 			{ 
